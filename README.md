@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I teached my dog how to smile :)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RodolfoSeki/RodolfoSeki/blob/output/github-contribution-grid-snake.svg)

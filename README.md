@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python, Spark and Big Data!
-- 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Remote Work
 - 💬 Ask me about LTE and IMS
